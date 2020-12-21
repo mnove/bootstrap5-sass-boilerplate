@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap5-sass-boilerplate",
+  "version": "1.0.0",
+  "description": "Website boilerplate -  Sass and Bootstrap 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnove/bootstrap5-sass-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnove/bootstrap5-sass-boilerplate/issues"
+  },
+  "homepage": "https://github.com/mnove/bootstrap5-sass-boilerplate#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1"
+  }
+}
