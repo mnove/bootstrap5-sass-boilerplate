@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/mnove/bootstrap5-sass-boilerplate#readme",
   "dependencies": {
-    "bootstrap": "^5.0.0-beta1"
+    "@popperjs/core": "^2.6.0",
+    "bootstrap": "^5.0.0-beta1",
+    "bootstrap-icons": "^1.2.1"
   }
 }
